@@ -3,6 +3,7 @@ membuat perusahaan start up di bidang:
 1.web development
 $menggunakan laravel
 2.ui / ux developer
+$mencondongkan ke graphic designer 
 3.mobile developer
 4.software development
 5.IT consultant
