@@ -1,7 +1,9 @@
 RENCANA PERUSAHAAN START UP
 membuat perusahaan start up di bidang:
 1.web development
+$menggunakan laravel
 2.ui / ux developer
 3.mobile developer
 4.software development
 5.IT consultant
+$menyediakan berbagai layanan solusi bisnis berbasis website 
